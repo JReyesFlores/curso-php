@@ -1,0 +1,19 @@
+{
+    "name": "openserver/fundamentos2",
+    "description": "demo",
+    "type": "project",
+    "require": {
+        "phpunit/phpunit": "8.5.x-dev"
+    },
+    "require-dev": {
+        "nesbot/carbon": "^2.0@dev"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jhon.phileppe.reyes.flores",
+            "email": "jhon.reyes@openserver.com.pe"
+        }
+    ],
+    "minimum-stability": "dev"
+}
