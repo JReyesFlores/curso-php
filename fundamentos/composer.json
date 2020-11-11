@@ -1,5 +1,6 @@
 {
     "name": "openserver/text",
+    "description": "Demostración..",
     "autoload": {
         "psr-4": {
             "Text\\": "src/"
